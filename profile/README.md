@@ -89,9 +89,9 @@ $
 ## 화면 구성 📺
 | 페이지 1 |  페이지 2  |
 | :-------------------------------------------: | :------------: |
-|  <img width="329" src="https://github.com/user-attachments/assets/7728bfac-e30d-4ad4-92e6-8465004250e6"/> |  <img width="329" src="https://github.com/user-attachments/assets/7728bfac-e30d-4ad4-92e6-8465004250e6"/>|  
+| ![기본 안드 사이즈- 로고](https://github.com/user-attachments/assets/b97c39bd-a332-4c25-a5ec-41801158e6d2) | ![기본 안드 사이즈- 메인홈 기본](https://github.com/user-attachments/assets/c24c878f-5c28-44dc-8882-660aa9bfa2a8)|  
 | 페이지 3   |  페이지 4   |  
-| <img width="329" src="https://github.com/user-attachments/assets/7728bfac-e30d-4ad4-92e6-8465004250e6"/>   |  <img width="329" src="https://github.com/user-attachments/assets/7728bfac-e30d-4ad4-92e6-8465004250e6"/>     |
+|  ![기본 안드 사이즈- 숏폼 생성 페이지1 활동선택 후](https://github.com/user-attachments/assets/5779896c-beb2-4613-8ef4-ce1d9a03b10b) |![기본 안드 사이즈- 저장함](https://github.com/user-attachments/assets/3bde6c1e-23fc-44c8-bf1d-7f3ff37e9e9d)|
 
 ---
 
