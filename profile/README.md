@@ -2,7 +2,8 @@
 
 <div align="center">
   
-<img width="329" alt="image" src="https://github.com/user-attachments/assets/7728bfac-e30d-4ad4-92e6-8465004250e6">
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/edc30b80-632e-47d6-a725-634426892f76">
+
 
 
 </div>
@@ -118,7 +119,8 @@ $
   
 | 시스템 아키텍처 |
 | :-------------------------------------------: | 
-| <img width="658" src="https://github.com/user-attachments/assets/d755b887-1bbb-4aa4-a7ad-6ea62e74e3fd"> |
+| <img width="658" src="https://github.com/user-attachments/assets/c1232fd8-065e-42a6-ba2d-5d566eb3a87d"> |
+
 
 </div>
 
