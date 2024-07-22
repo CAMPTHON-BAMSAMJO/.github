@@ -24,7 +24,7 @@
 |   <img width="160px" src="https://github.com/user-attachments/assets/7728bfac-e30d-4ad4-92e6-8465004250e6" /> | <img width="160px" src="https://github.com/user-attachments/assets/7728bfac-e30d-4ad4-92e6-8465004250e6" /> |  <img width="160px" src="https://github.com/user-attachments/assets/7728bfac-e30d-4ad4-92e6-8465004250e6" />    |                   <img width="160px" src="https://github.com/user-attachments/assets/7728bfac-e30d-4ad4-92e6-8465004250e6"/>   |
 |  ANDROID DEVELOPER  | DESIGNER | BACKEND DEVELOPER  | BACKEND DEVELOPER  |
 |   [@emjayMJkim](https://github.com/emjayMJkim)   |  |   [@gouyeonch](https://github.com/gouyeonch)  | [@bianbbc87](https://github.com/bianbbc87)  |
-| 동국대학교 컴퓨터공학과 3학년 | 동국대학교 멀티미디어공학과 3학년 | 동국대학교 컴퓨터공학과 3학년 | 동국대학교 컴퓨터공학과 4학년 | 
+| 동국대학교 컴퓨터공학과 3학년 | 동국대학교 멀티미디어공학과 3학년 | 동국대학교 컴퓨터공학과 4학년 | 동국대학교 컴퓨터공학과 3학년 | 
 
 <br />
 
@@ -76,6 +76,7 @@ $
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Communication
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
