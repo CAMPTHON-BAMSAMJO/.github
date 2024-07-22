@@ -49,8 +49,9 @@ For building and running the application you need:
 
 ### Installation
 ``` bash
-$ 
-$ 
+$ [android] local.properties 파일에
+$ base.url="http://43.201.221.69:80"
+$ 추가 
 ```
 #### Build
 ```
